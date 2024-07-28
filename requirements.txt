@@ -1,0 +1,9 @@
+pylint
+pytest
+black
+ipython
+click
+ipdb
+pytest-cov
+Celery
+Flask
