@@ -7,3 +7,5 @@ ipdb
 pytest-cov
 Celery
 Flask
+beautifulsoup4
+requests
